@@ -57,6 +57,7 @@ boolean condition2 =  x < 50 || x < y ;
         System.out.println(condition);
         System.out.println(condition2);
 //        vijay kumar prajapati
+//        next update testing
 
 
 
