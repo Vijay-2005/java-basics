@@ -9,13 +9,11 @@ public class Main {
         b--;
         int c = b % a ;
         System.out.println( c >= b);
-//        int x = y = z = 10 ;
-//        System.out.println(x  + " " + y + " " + z);
-//int i = 19 , j = 29 , k;
-//k  = i-- - i++ + --j - ++j + --i - j-- + ++i - j++;
-//        System.out.println(i);
-//        System.out.println(j);
-//        System.out.println(k);
+int i = 19 , j = 29 , k;
+k  = i-- - i++ + --j - ++j + --i - j-- + ++i - j++;
+        System.out.println(i);
+        System.out.println(j);
+        System.out.println(k);
         Scanner sc = new Scanner(System.in);
 //        int  x = sc.nextInt();
 //
